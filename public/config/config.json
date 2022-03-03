@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xE955908eB777148919Ca30b9041Cc7b30E07FD5A",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xE955908eB777148919Ca30b9041Cc7b30E07FD5A",
+  "NETWORK": {
+    "NAME": "Mumbai Testnet",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Marko NFT",
+  "SYMBOL": "SEX",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/marko-5xecidt7li",
+  "SHOW_BACKGROUND": true
+}
